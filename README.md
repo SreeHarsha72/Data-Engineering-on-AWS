@@ -36,9 +36,9 @@ This repository gives end-to-end data engineering project leveraging AWS service
   +  Transformed processed data into an analytical/reporting layer using AWS Glue Studio.
   + Partitioned data by region and category to enhance query performance.
 ### 4. Visualization with AWS QuickSight:
-+	 AWS QuickSight was used to create interactive dashboards and visualize trends, including:
-  -	 Most liked or viewed video categories.
-  - Regional insights into video performance.
++	AWS QuickSight was used to create interactive dashboards and visualize trends, including:
+  -	Most liked or viewed video categories.
+  -	Regional insights into video performance.
 +	 Steps included connecting QuickSight to Athena and designing user-friendly dashboards for stakeholders.
 
 ## Error Handling
