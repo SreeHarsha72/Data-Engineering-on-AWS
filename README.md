@@ -1,7 +1,7 @@
 # Youtube Data Analysis on AWS
 
 ## Introduction
-This repository gives end-to-end data engineering project leveraging AWS services. The project simulates a real-world scenario where a client seeks to analyze YouTube ad campaigns and uncover factors affecting video popularity.
+This repository details end-to-end data engineering project leveraging AWS services. The project simulates a real-world scenario where a client seeks to analyze YouTube ad campaigns and uncover factors affecting video popularity.
 
 ## Project Overview
 - Scenario Assumption: The client wants to run YouTube ad campaigns and requires insights into video popularity trends.
