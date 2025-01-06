@@ -21,21 +21,21 @@ This repository gives end-to-end data engineering project leveraging AWS service
 +	 IAM (Identity Access Management): Ensures secure access to AWS resources.
 
 ## Data Preparation
-###1. Data Source:
+### 1. Data Source:
 +	 The dataset consists of trending YouTube videos and their categories, sourced from Kaggle.
-###2. Storage:
+### 2. Storage:
 +	 Raw data is stored in Amazon S3 using structured naming conventions for easy access and organization.
 
 ## Work Steps
-###1. Data Lake Creation:
+### 1. Data Lake Creation:
 +	 AWS S3 serves as the central repository for raw and processed data.
-###2. 	Data Transformation:
+### 2. 	Data Transformation:
 +	 AWS Lambda functions process JSON data into a tabular format (Parquet) for optimized storage and querying.
 +	 AWS Glue crawlers catalog metadata for structured querying.
-###3. Building Analytical and Reporting Layers:
+### 3. Building Analytical and Reporting Layers:
   +  Transformed processed data into an analytical/reporting layer using AWS Glue Studio.
   + Partitioned data by region and category to enhance query performance.
-###4. Visualization with AWS QuickSight:
+### 4. Visualization with AWS QuickSight:
 +	 AWS QuickSight was used to create interactive dashboards and visualize trends, including:
   -	 Most liked or viewed video categories.
   - Regional insights into video performance.
