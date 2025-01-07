@@ -14,12 +14,12 @@ This repository details end-to-end data engineering project leveraging AWS servi
 +	 Develop a dashboard for actionable insights.
 
 ## AWS Services Used
-+	 Amazon S3: Central repository for storing raw and processed data.
-+	 AWS Lambda: Processes JSON data, handles ETL workflows, and automates triggers.
-+	 AWS Glue: Crawlers create metadata catalogs, and ETL jobs transform raw data.
-+	 AWS Athena: Enables SQL querying of transformed data for insights.
-+	 AWS QuickSight: Visualizes trends and creates interactive dashboards.
-+	 IAM (Identity Access Management): Ensures secure access to AWS resources.
++	 ** Amazon S3 **: Central repository for storing raw and processed data.
++	 ** AWS Lambda **: Processes JSON data, handles ETL workflows, and automates triggers.
++	 ** AWS Glue **: Crawlers create metadata catalogs, and ETL jobs transform raw data.
++	 ** AWS Athena **: Enables SQL querying of transformed data for insights.
++	 ** AWS QuickSight **: Visualizes trends and creates interactive dashboards.
++	 ** IAM (Identity Access Management) **: Ensures secure access to AWS resources.
 
 ## Data Preparation
 ### 1. Data Source:
