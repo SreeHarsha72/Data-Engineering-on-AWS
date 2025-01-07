@@ -5,6 +5,7 @@ This repository details end-to-end data engineering project leveraging AWS servi
 
 ## Project Overview
 - Scenario Assumption: The client wants to run YouTube ad campaigns and requires insights into video popularity trends.
+- dataset https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Goals
 + Categorize videos based on comments and stylistics.
