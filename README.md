@@ -21,6 +21,7 @@ This repository details end-to-end data engineering project leveraging AWS servi
 +	 **AWS QuickSight**: Visualizes trends and creates interactive dashboards.
 +	 **IAM (Identity Access Management)**: Ensures secure access to AWS resources.
 
+![workflow diagram](img/workflow.png)
 ## Data Preparation
 ### 1. Data Source:
 +	 The dataset consists of trending YouTube videos and their categories, sourced from Kaggle.
